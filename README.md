@@ -1,5 +1,9 @@
 # Superstore-sales-dashboard-
 
+**Tools**
+
+Power Bi
+
 This project presents an interactive Power BI dashboard built using the Superstore dataset to analyze and visualize sales performance.
 It provides detailed insights into:
 
